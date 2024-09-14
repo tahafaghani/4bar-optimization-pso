@@ -19,7 +19,9 @@ Best parameters:
 r1=7.300 cm, r2=5.200 cm, r3=5.600 cm, r4=7.800 cm, r5=3.100 cm
 theta1=1.570 rad
 
-## Example of Optimized Mechanism
+
+
+Example of Optimized Mechanism
 
 <p align="center">
   <img src="https://github.com/tahafaghani/4bar-optimization-pso/blob/main/4bar.PNG" width="45%" alt="Before Optimization"/>
