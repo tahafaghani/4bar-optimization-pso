@@ -124,12 +124,9 @@ Contributions are welcome! Here’s how you can contribute:
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-- **Taha Faghani** - taha.faghani@example.com
+- **Taha Faghani** - taha.faghani.daroopi@gmail.com
 - GitHub: [tahafaghani](https://github.com/tahafaghani)
 
