@@ -18,3 +18,14 @@ After running the script, the following optimized parameters will be shown:
 Best parameters:  
 r1=7.300 cm, r2=5.200 cm, r3=5.600 cm, r4=7.800 cm, r5=3.100 cm
 theta1=1.570 rad
+
+## Example of Optimized Mechanism
+
+Here are two images showing the trajectory before and after the optimization process for the four-bar mechanism:
+
+<p align="center">
+  <img src="https://github.com/tahafaghani/4bar-optimization-pso/blob/main/4bar.PNG" width="45%" alt="Before Optimization"/>
+  <img src="tahafaghani/4bar-optimization-pso/blob/main/path3.JPG" width="45%" alt="After Optimization"/>
+</p>
+
+In the left image, you can see the mechanism's initial state. The right image shows the optimized trajectory of point `P`, ensuring it traces the desired 15 cm trajectory.
